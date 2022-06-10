@@ -1,0 +1,135 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+   text-align: center; 
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#img1 {
+    background-image: url('img/mediun.jpg');
+    background-color: #66667C;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+    position: relative;
+    height: 96vh;
+    padding: 10px;
+}
+#img01 {
+    background-color:#666666;
+    background-size: 100% 100%;
+
+    position: relative;
+    width: 300px;
+    padding: 15px;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+}
+#img2 {
+    padding: 10px; 
+    background-image: url('img/Lua-Azul-divulgação.jpg');
+    background-color: #66667C;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+    position: relative;
+    height: 50vh;
+}
+#img02 {
+    background-size: 100% 100%;
+    position: relative;
+    color: white;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+}
+#img3 {
+    padding: 10px;
+    background-image: url('img/Antarctica_blue_white_blue.jpg');
+    background-color: #66667C;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+    position: relative;
+    height: 50vh;
+}
+#img03 {
+    background-size: 100% 100%;
+    position: relative;
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+}
+#img4 {
+    padding: 10px;
+    background-size: 100% 100%;
+    background-image: url('img/paisagem-2C.jpg');
+    background-color: #66667C;
+    background-attachment: fixed;
+
+    position: relative;
+    height: 96vh;
+}
+#img04 {
+    background-size: 100% 100%;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+#txt1  {
+    background-color: #F4F4F4;
+
+}
+#txt1 h2 {
+   color: #666666; 
+   padding: 10px;
+}
+
+
+#txt1 p {
+    color: #66667C; 
+    padding: 10px 60px 30px 60px;
+    text-align: justify;
+    text-indent:15px;
+    line-height:1.5em
+}
+
+#txt2 h2 {
+    padding: 10px;
+ }
+
+ 
+#txt2 p {
+    padding: 10px 60px 30px 60px;
+    text-align: justify;
+    text-indent:15px;
+    line-height:1.5em
+}
+
+#txt3 h2 {
+    padding: 10px;
+ }
+
+#txt3 p {
+    padding: 10px 60px 30px 60px;
+    text-align: justify;
+    text-indent:15px;
+    line-height:1.5em
+}
+
+#txt2, #txt3 {
+    background-color: #282E34;
+    color: white;
+}
